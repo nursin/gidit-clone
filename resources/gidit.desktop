@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Gidit
+GenericName=Life Dashboard
+Comment=Your Life, Organized — Native AI-powered life operating system
+Exec=gidit
+Icon=gidit
+Categories=Utility;Office;ProjectManagement;
+Keywords=dashboard;todo;habits;ai;life;organizer;
+Terminal=false
+StartupNotify=true
+StartupWMClass=Gidit

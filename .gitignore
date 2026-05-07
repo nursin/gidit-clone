@@ -1,0 +1,34 @@
+# Build
+build/
+release/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.app
+
+# Qt
+moc_*
+ui_*
+qrc_*
+*.pro.user
+*.pro.user.*
+.qmake.stash
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cache/
+compile_commands.json
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Models (large binaries)
+models/*.onnx
+models/*.bin
